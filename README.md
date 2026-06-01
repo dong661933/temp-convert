@@ -21,3 +21,11 @@ $ python temp_convert.py 100 c2f
 $ python temp_convert.py 32 f2c
 32.0 F = 0.0 C
 ```
+
+## Development
+
+Run the unit tests with:
+
+```
+python -m unittest
+```
